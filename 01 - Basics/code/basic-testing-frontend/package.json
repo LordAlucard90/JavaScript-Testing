@@ -1,0 +1,23 @@
+{
+  "name": "basic-testing-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest --run",
+    "test:verbose": "vitest --run --reporter verbose",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "start": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "Maximilian Schwarzmüller",
+  "license": "ISC",
+  "devDependencies": {
+    "c8": "^7.11.3",
+    "http-server": "^14.1.0",
+    "install": "^0.13.0",
+    "npm": "^8.6.0",
+    "vitest": "^0.9.0"
+  }
+}

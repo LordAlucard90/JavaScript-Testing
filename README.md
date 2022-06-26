@@ -10,9 +10,18 @@ if is change from the previous step, the new code.
 
 ## Content
 
-- [Intro](./00%20-%20Intro/readme.md)
+- [**Intro**](./00%20-%20Intro/readme.md)
     - [Test Types](./00%20-%20Intro/readme.md#test-types)
     - [Setup](./00%20-%20Intro/readme.md#setup)
+
+- [**Basics**](./01%20-%20Basics/readme.md)
+    - [Test File](./01%20-%20Basics/readme.md#test-file)
+    - [Test Definition](./01%20-%20Basics/readme.md#test-definition)
+    - [AAA Pattern](./01%20-%20Basics/readme.md#aaa-pattern)
+    - [Test Scenarios](./01%20-%20Basics/readme.md#test-scenarios)
+    - [Check Errors](./01%20-%20Basics/readme.md#check-errors)
+    - [Test Suit](./01%20-%20Basics/readme.md#test-suit)
+    - [Coverage](./01%20-%20Basics/readme.md#coverage)
 
 
 
