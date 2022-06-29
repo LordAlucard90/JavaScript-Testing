@@ -38,4 +38,9 @@ if is change from the previous step, the new code.
     - [Mocks And Spies Logic](./03%20-%20Mocks%20And%20Spies/readme.md#mocks-and-spies-logic)
     - [Global Stubs](./03%20-%20Mocks%20And%20Spies/readme.md#global-stubs)
 
+- [**Test DOM**](./04%20-%20Test%20DOM/readme.md)
+    - [Testing Environment](./04%20-%20Test%20DOM/readme.md#testing-environment)
+    - [Setup DOM](./04%20-%20Test%20DOM/readme.md#setup-dom)
+    - [Testing DOM](./04%20-%20Test%20DOM/readme.md#testing-dom)
+    - [Testing Library](./04%20-%20Test%20DOM/readme.md#testing-library)
 
